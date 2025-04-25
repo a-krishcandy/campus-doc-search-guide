@@ -1,5 +1,3 @@
-import { Doctor } from './api';
-
 export interface Doctor {
   id: number;
   name: string;
